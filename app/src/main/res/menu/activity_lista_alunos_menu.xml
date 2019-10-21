@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_lista_alunos_menu"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/activity_lista_alunos_menu_remover"
+        android:title="Remover" />
+    <item
+        android:id="@+id/activity_lista_alunos_menu_editar"
+        android:title="Editar" />
+</menu>
